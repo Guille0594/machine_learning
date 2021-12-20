@@ -1,6 +1,7 @@
 # Proyecto de Machine Learning: Accidentes en Canada
 **Máster en Data Science para finanzas <br />**
 **Autores: <br />**
+Diciembre de 2021
 González Díaz, Guillermo <br />
 Sebastiani, Carlos  <br />
 
