@@ -16,8 +16,8 @@ Crear un entorno con Flask para la ejecución del modelo creado en la etapa ante
 - Intento de creación de un Docker para poder invocar al modelo desde cualquier ordenador. 
 
 ## Enlaces git:
-Carlos:
-Guillermo: 
+- Carlos: https://github.com/carlossebastiani/Machine_Learning_Practica.git
+- Guillermo: https://github.com/witin94/machine_learning.git
 
 
 
