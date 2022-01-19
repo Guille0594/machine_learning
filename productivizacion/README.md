@@ -7,7 +7,7 @@ Sebastiani, Carlos  <br />
 
 
 ## Objetivos del trabajo:
-Crear un entorno con Flask para la ejecución del modelo creado en la etapa anterior del trabajo. 
+Crear un entorno con Flask para la ejecución del modelo diseñado en la etapa anterior del trabajo. 
 
 ## Partes del trabajo
 - Selección del modelo para su posterior productivización. En nuestro caso, aunque el que mejor resultado nos dio fue Random Forest hemos optado por LightGBM, que tenía menos costo computacional.
